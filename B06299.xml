@@ -1,0 +1,206 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A character of Charles the Second, written by an impartial hand and exposed to publick view for information of the people.</title>
+            <author>Tuke, Samuel, Sir, Colonel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06299</idno>
+            <idno type="STC">Wing T3232A</idno>
+            <idno type="STC">ESTC R185776</idno>
+            <idno type="EEBO-CITATION">52529044</idno>
+            <idno type="OCLC">ocm 52529044</idno>
+            <idno type="VID">179168</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06299)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179168)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2779:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A character of Charles the Second, written by an impartial hand and exposed to publick view for information of the people.</title>
+                  <author>Tuke, Samuel, Sir, Colonel.</author>
+               </titleStmt>
+               <extent>[2], 3-16 p. : coat of arms.  </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year, 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Author attribution from Wing.</note>
+                  <note>The author is not to be confused with Sir Samuel Tuke, d. 1674. Cf. Brit. Mus. Cat.</note>
+                  <note>Full-page illustration of royal arms on p. [2].</note>
+                  <note>Initial letter.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179168:1"/>
+            <pb facs="tcp:179168:1"/>
+            <p>A CHARACTER OF CHARLES THE SECOND,</p>
+            <p>
+               <hi>WRITTEN</hi> By an Impartial Hand, and expoſed to PUBLICK VIEW FOR Information of the <hi>PEOPLE.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1660.</p>
+         </div>
+         <div type="royal_seal">
+            <pb facs="tcp:179168:2"/>
+            <p>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:179168:2"/>
+            <head>A CHARACTER OF CHARLES THE SECOND.</head>
+            <p>
+               <seg rend="decorInit">I</seg>F the Naturaliſts pretend to give a reaſon why the Son of <hi>Croeſus,</hi> who had been dumb from his Infancy, ſeeing a Souldier ready to kill his Father, cryed out, <hi>It is the KING!</hi> The force of Naturall affection breaking thoſe ſtrings, which, until that moment, had tyed his tongue: Who will wonder that a man, who on the buſie Theater of his Coun<g ref="char:EOLhyphen"/>trey, hath hither to preſented the Perſon of a <hi>Mute,</hi> ſhould violate his reſolutions of continuing ſilent, when he ſees the curſing <hi>Shimei</hi>'s of this depraved Nation, going to murther the good fame of his <hi>Maſter,</hi> his <hi>Soveraign,</hi> and the <hi>common Father</hi> of the people? Therefore ſince my zeal to <hi>Truth,</hi> my veneration for <hi>Gods Anointed,</hi> and my ten<g ref="char:EOLhyphen"/>derneſſe for my Countrey hath looſen'd my Tongue, I have taken the boldneſſe to informe the deluded People
+<pb n="4" facs="tcp:179168:3"/>
+what manner of Man he is, againſt whom theſe Serpents have ſpit their Venome.</p>
+            <p>And who may pretend to be better heard, or more be<g ref="char:EOLhyphen"/>lieved, then a Perſon who hath paſt eighteen Years of his Time, in the Service and Court of this Illuſtrious <hi>PRINCE?</hi> And who dares challenge the World to finde in the whole proceſſe of his Life, one inſtance of the leaſt deflexion from the ſevereſt rules of ſincerity; which yet he does not vain<g ref="char:EOLhyphen"/>ly urge to enhaunſe his Reputation, but to ſtrengthen his evidence, humbly acknowledging, that he does not owe this ſteddineſſe to the complexion of his ſpirit, but to the goodneſſe of <hi>Almighty God,</hi> who <hi>reſiſteth the proud, and giveth grace to the humble.</hi>
+            </p>
+            <p>But before I begin to trace the firſt Lines of this Piece, I conceive it very neceſſary to diſcover theſe Incidents, which have conſpired to abuſe the Judgements of many diſ<g ref="char:EOLhyphen"/>intereſſed, well-meaning perſons, who were otherwiſe ſuf<g ref="char:EOLhyphen"/>ficiently fortified againſt the practiſes of notorious Enemies.</p>
+            <p>So great have been the diſtreſſes of his <hi>MAJESTY,</hi> ſince he hath been exil'd from His <hi>Kingdomes,</hi> that he could not poſſibly ſupport thoſe many Retainers to his Court and Cauſe, which have been involv'd in the common Fate of his Party; and it is ſo natural for all men to overvalue their own merits, that they think themſelves very much injur'd, if they are not admitted to equal ſhares with the reſt of their fellow Servants, though far more eminent for their ſervices paſt, and better fitted for preſent employments; ſo that neither his <hi>MAJESTIES</hi> inſuperable neceſſities, nor the diſparity of their deſerts could hinder theſe preſumptu<g ref="char:EOLhyphen"/>ous perſons, from murmuring at his <hi>Miniſters,</hi> whilſt they were abroad, and blaſting of his perſonal vertues when they returned home, and many of theſe unworthy men, having been honour'd either with ſome Domeſtick relation to his <hi>MAJESTY,</hi> or at leaſt, with free acceſſe to his Court, had ſuch pretences to be credited in all their reports, that whilſt the KING was not known to the People, who are
+<pb n="5" facs="tcp:179168:3"/>
+ever inclin'd to believe the worſt, they eaſily perverted the candour of their opinions, either by wounding the Judge<g ref="char:EOLhyphen"/>ment of his <hi>MAJESTY</hi> in the choice of his <hi>Miniſters,</hi> or profaning his Character by moſt impudent ſlanders, eſpeci<g ref="char:EOLhyphen"/>ally, during the Tyranny of the late <hi>Protector,</hi> and the vile Inſtruments of his ambition, who having murthered the <hi>Fa<g ref="char:EOLhyphen"/>ther,</hi> and ſeized the Inheritance of the <hi>Son,</hi> knew that there were no better means to preſerve their poſſeſſions, then by recriminating the Perſon of the Lawfull Pretender; and therefore they were ſo prodigall of their rewards to theſe <note place="margin">That unhappy wretch <hi>Man<g ref="char:EOLhyphen"/>ning</hi> (when he was a priſoner at <hi>Colen)</hi> confeſſed that his Salary from the Pro<g ref="char:EOLhyphen"/>tector was 100. <hi>l.</hi> a Month.</note> 
+               <hi>Apoſtates,</hi> that in the vaſt Profuſion of the publick Treaſure of the Kingdom, the Salaries of theſe Villains will be found one of the moſt coſtly <hi>Items.</hi> 'Tis true, the Perſons and Practiſes of many of theſe graceleſſe men were a long time ſince very particularly known, but ſuch hath been the iniqui<g ref="char:EOLhyphen"/>ty of the Times, that men might perpetrate the blackeſt Crimes with more ſecurity, then impeach a Criminal: and who then could expect that there ſhould be found any Mar<g ref="char:EOLhyphen"/>tyrs for the <hi>Truth,</hi> when it was become a Principle in their <hi>Religion</hi> to abet the preſent Power, which is, <hi>To lye for their Intereſt.</hi> So that at my return into <hi>England,</hi> after Eleven years abſence, truely I was aſtoniſhed to finde that this Poy<g ref="char:EOLhyphen"/>ſon was not more diffuſed, conſidering the activity of the Deceivers, and the ſlaviſh remiſſneſs of thoſe who ſhould have generouſly oppoſed them. But it hath pleaſed Almighty God marvelouſly to preſerve his <hi>Majeſties</hi> good Name, againſt the malice of thoſe wicked men, who went about to ſlander the foot-ſteps of his <hi>Anointed.</hi>
+            </p>
+            <p>And now finding a dawning of Liberty to aſſert the Truth, I am bold to expoſe his <hi>Picture</hi> to the publick view, whoſe <hi>Perſon</hi> will hereafter (when his Luſter ſhall break through the Clouds of his misfortunes) prove the Delight of our Eyes.</p>
+            <p>Though <hi>Plato</hi> hath made the Soul to be the definition of man, allowing the <hi>Body</hi> to be only the <hi>Carriage of the Spirit,</hi> yet ſince we receive our Information of Corporeal Subjects,
+<pb n="6" facs="tcp:179168:4"/>
+as well from our Senſe as our underſtanding, I think it very proper to deſcribe his <hi>Majeſties</hi> Perſon as well as his Qua<g ref="char:EOLhyphen"/>lities.</p>
+            <p>He is ſomewhat Taller then the middle ſtature of <hi>Engliſh men;</hi> ſo exactly form'd, that the moſt curious Eye cannot find one Error in his ſhape. His Face is rather Grave then Severe, which is very much ſoftned whenſoever he ſpeaks: His Complexion is ſomewhat dark, but much enlightened by his Eyes, which are Quick and Sparkling. Until he was near twenty years of Age, the figure of his Face was very Lovely; but he is ſince grown Leaner, and now the Majeſty of his Counnenance ſupplies the Lines of Beauty. His Hair, which he hath in great plenty, is of a ſhining black, not frizled, but ſo Naturally Curling into great Rings, that it is a very comely Ornament. His Motions are ſo eaſie and gracefull, that they do very much recommend his perſon when he ei<g ref="char:EOLhyphen"/>ther Walks, Dances, playes at <hi>Pal Maille,</hi> at Tennis, or rides the great Horſe, which are his uſual Exerciſes, In ſumme, his <hi>Meene</hi> does denote his Quality; and whereſoever he ap<g ref="char:EOLhyphen"/>pears, he eaſily obtains the reſpect and affections of all that approach him; To the gracefulneſſe of his deportment, may be joyn'd his eaſineſſe of acceſſe, his Patience in Attention, and the Gentleneſs both in the tone and ſtyle of his ſpeech; ſo that thoſe, whom either the veneration for his dignity, or the Majeſty of his preſence have put into an awful reſpect, are re-aſſur'd aſſoon as he enters into converſation; and this I have often heard obſerv'd by many perſons of quality of ſeveral Nations, eſpecially by the <hi>French,</hi> who are naturally more ſerene and jovial, then the people of theſe Northern Countreys, who at firſt approach'd him with ſome conſtraint, until his MAJESTY was better known to them; but to deal ingenuoſly, theſe advantages were not born with him, for he was too reſerv'd in his youth, but he owes theſe (with many other excellencies) to his misfortunes, which forcing him to communicate himſelf to all ſorts of people of the ſeveral Nations where he hath ſojourn'd, have cultivated
+<pb n="7" facs="tcp:179168:4"/>
+his manners, and render'd his perfections habitual.</p>
+            <p>Amongſt his acquainted endowments theſe are the moſt eminent, He underſtands <hi>Spaniſh,</hi> and <hi>Italian;</hi> ſpeaks and writes <hi>French</hi> correctly; He is well vers'd in ancient and modern <hi>Hiſtory,</hi> hath read divers of the choiceſt Pieces of the <hi>Politick,</hi> hath ſtudied ſome uſeful parts of the <hi>Mathe<g ref="char:EOLhyphen"/>maticks,</hi> as <hi>Fortification,</hi> and the knowledge of the <hi>Globe;</hi> but his chief delight is in <hi>Navigation,</hi> to which his <hi>Genius</hi> doth ſo incline him, that by his frequent converſation with Mariners, and his own obſervation, whileſt he rid ſix weeks in the <hi>Downes,</hi> and in his paſſage into <hi>Scotland,</hi> he hath ar<g ref="char:EOLhyphen"/>rived to ſo much knowledge in this Science, that I have heard many expert Seamen (whoſe diſcourſes are not ſteer'd by the compaſſe of the Court) ſpeak of it with delight and wonder; in <hi>general,</hi> He is a true friend to <hi>Literature,</hi> and to <hi>Learned Men.</hi>
+            </p>
+            <p>But I conceive my ſelf obliged to be more particular in my diſcourſe upon his <hi>Natural qualities,</hi> becauſe they import the well or ill-being of all thoſe who are under his Dominion; for though his outward Accompliſhments may ſufficiently recommend him to diſintereſſed ſtrangers, yet they are only his <hi>genuino Vertues,</hi> which can render him agreeable to his own Subjects; amongſt which I will aſſigne the firſt place to his <hi>Underſtanding,</hi> ſince without this, the reſt of his Vertues will have little ſignification to<g ref="char:EOLhyphen"/>wards the happineſſe of his People; for if he wanted that, it were more to the purpoſe to deſcribe his <hi>Miniſters</hi> then his MAJESTY; and 'tis they would have the dominion over the People, whileſt he repre<g ref="char:EOLhyphen"/>ſented only the ſign of a King: But I dare aſſure the Nation that this will not be our caſe, for his MA<g ref="char:EOLhyphen"/>JESTY hath not only a ſolid Judgement, which (if the method of this diſcourſe would permit) I could evince by many pregnant inſtances, as well as by the univerſall conceſſion of all the judicious men that know him: but he is ſo well, yet ſo modeſtly periwaded of it,
+<pb n="8" facs="tcp:179168:5"/>
+that he dares truſt himſelf, and is not capable of being carryed about with every Wind of Counſel; ſo that it will prove to be as truly ſaid of his <hi>MAJESTY,</hi> as of his Grand-father, <hi>Henry the fourth, He that would corrupt his Councill, muſt firſt begin with the King:</hi> And when his Subjects ſhall conſider the advantages of his Edu<g ref="char:EOLhyphen"/>cation, the different Nations and Factions that he hath had to deal with, the direct oppoſition of his Enemies, and the treachery of his ſeeming Friends, the neceſſity of his treating with ſeveral Parties in Perſon, (becauſe they would not truſt thoſe who were about him) the Variety and Force of his Experience, from the diſtinct knowledge of the Natures of the <hi>People</hi> of ſeveral <hi>Coun<g ref="char:EOLhyphen"/>treys,</hi> of their chief <hi>Miniſters</hi> of State, with the In<g ref="char:EOLhyphen"/>trigues of Government, both in their <hi>Churches</hi> and <hi>Common-wealths,</hi> which other Princes have not had the opportunity, or miſ-fortune to diſcover, and all theſe Leſſons derived from their natural Springs, and learn'd in that excellent School of Adverſity, which opens the Underſtanding, and confirms the Judgement; when theſe particulars are well conſidered, I believe, I ſhall not be put upon my Oath to prove this Article.</p>
+            <p>Though the Sagacity of his Spirit may be of great ad<g ref="char:EOLhyphen"/>vantage to himſelf or Friends, yet it will have no comfort<g ref="char:EOLhyphen"/>able influence upon his Subjects in general, unleſſe it be alſo accompanied with <hi>Juſtice,</hi> and therefore this is the vertue which is next to be conſidered.</p>
+            <p>If <hi>Juſtice</hi> be well defin'd by the Moraliſts to be, <hi>The con<g ref="char:EOLhyphen"/>ſtant Will of giving to every man his due;</hi> then may I ſafely pronounce his <hi>Majeſty</hi> to be a Juſt perſon. And though I have met with ſome reports which ſeem to impugne this Aſ<g ref="char:EOLhyphen"/>ſertion, yet upon due examination of them, I am the more confirmed in this Character: For though the defection of ſome of the Royal Party hath given his Majeſty general grounds of ſuſpition, yet there is no man more averſe then himſelf to entertain an ill opinion of any perſon, of whoſe honeſty he
+<pb n="9" facs="tcp:179168:5"/>
+hath had experience. But it hath been his fortune (as what Prince or private perſon can avoid it) to have had ſome abſent perſons of Merit and Integrity miſrepreſented to him by ſuch ſubtile Arts, as humane wit could not at the preſent find out the falſhood. Some of theſe innocent ſuffer<g ref="char:EOLhyphen"/>ers, either from the confidence of their own Sincerity, or poſſibly, from their indifferency for his <hi>Majeſties</hi> good Opi<g ref="char:EOLhyphen"/>nion (he not being in a condition either to reward or pu<g ref="char:EOLhyphen"/>niſh) have neglected their defence, and lain for ſome time under his diſpleaſure; but as ſoon as he once diſcovered the abuſe (though without their applications) he hath not only made them very Honourable reparations, but marked the Informers with a publick Character of Infamy: And of this particular I have ſo diſtinct a knowledge, that I do as confidently believe he is <hi>Juſt,</hi> as that he is a <hi>Man.</hi>
+            </p>
+            <p>Theſe generous Qualities are actuated by the <hi>Magnani<g ref="char:EOLhyphen"/>mity</hi> of his mind, expreſſed in his <hi>Fortitude</hi> and <hi>Courage,</hi> which I may beſt compare to one another; for his <hi>Majeſty</hi> hath ſhewed as great <hi>Courage</hi> in his attempts, to recover his juſt rights, as <hi>Fortitude</hi> in his ſubmiſſion to Providence, in the deciſion of the Battel againſt him; and yet there have been ſome Infectious breaths, who have endeavoured to blaſt his juſt Reputation; but he hath ſo ſingnaliz'd his <hi>Courage</hi> whereſoever he appear'd, that even his inveterate Enemy <hi>Cromwel</hi> himſelf, could not refuſe him his juſt praiſes, though it was not his cuſtome to give his Enemies their due honour, or to tell a truth, that might redound to his prejudice: But as this Character is not doubted by his Frieds abroad, ſo I wiſh that it may never be known by experience to his enemies at home.</p>
+            <p>But that they may not be alarm'd by this laſt Period; I do aſſure them, that <hi>Clemency</hi> is as natural to his <hi>Majeſty,</hi> as <hi>Courage:</hi> which is a Propoſition that proves it ſelf; for there is no man truly valiant, that can be cruel; and it were to degrade himſelf, not to pardon Injuries; for in
+<pb n="10" facs="tcp:179168:6"/>
+taking <hi>revenge,</hi> a man is but even with his Enemy: but in paſſing it over, he is become his Superiour. Theſe are general notions which I muſt apply to their particulars whom it may concern: His <hi>Majeſties</hi> genuine <hi>Clemency</hi> is confirm'd by his veneration for his <hi>Fathers memory,</hi> who left him his commands to pardon his Enemies (even thoſe Enemies, who mingled their hands in his innocent blood) as his laſt Legacy; and I do know, that he is convinced, that it is his intereſt to forgive thoſe that have oppos'd him, if they produce any ſeaſonable Teſtimonies of their return and good intentions towards him; knowing that the de<g ref="char:EOLhyphen"/>ſpairs of his Enemies may produce cruel effects to his Friends: and he deſires to make his acceſſe to his Throne as innocent, and as certain as he can; and therefore as the common <hi>Father of his People,</hi> he endeavours that we ſhould reconcile and embrace like Brethren; and concludes, That the beſt means to reſtore the crazie Body of the King<g ref="char:EOLhyphen"/>dom to its former health and vigour, is not to cure one part, by afflicting of the other; but to heal thoſe wounds which are already feſtred by their proper lenitives, and to remove (as much as lies in his power) all the cauſes of future Animoſities; and this (to the beſt of my remem<g ref="char:EOLhyphen"/>brance) is the ſubſtance of a diſcourſe, which I have lately heard from his <hi>Majeſties</hi> own Mouth upon this Subject.</p>
+            <p>But his <hi>Majeſties</hi> natural <hi>Clemency</hi> may poſſibly want the deſirable Effects towards penitent Offenders, if he be not poſſeſt of a <hi>Religious fidelity of performing his Promiſe,</hi> and a <hi>Conſtancy of Reſolution:</hi> If at leaſt the ill adviſed paſſion of the parties that have ſufferd ſhould ever incline them to importune him for their revenge, under the Stile of <hi>Juſtice:</hi> To this I reply, That Perfidiouſneſſe and Irre<g ref="char:EOLhyphen"/>ſolution are ſo directly oppoſite to thoſe Qualities which I have already enumerated in his <hi>Majeſties Character,</hi> that they are altogether inconſiſtent; and if he ſhould have the leaſt inclination to <hi>Hypocriſie,</hi> that which I have hitherto
+<pb n="11" facs="tcp:179168:6"/>
+ſaid of him cannot be true; but he knows very well that the reputation of Faithfulneſſe is one of the chiefeſt Pillars of Regall Power; and that even his Friends may reaſon<g ref="char:EOLhyphen"/>ably ſuſpect the performance of his promiſes to them, if he breaks his Faith to his Enemies.</p>
+            <p>But to be more particular, I have often heard his <hi>Ma<g ref="char:EOLhyphen"/>jeſty</hi> declaime againſt the perfidious practices, which he had obſerved in the Negotiations of ſome Publick <hi>Miniſters</hi> abroad; and Men do not uſe to declare an open War againſt thoſe Vices, to which themſelves are obnoxious; and I could name ſome Perſons, whom he is pleaſed to honour with a particular eſteem, that have no other conſpicuous Virtue beſides their impregnable Honeſty; for there is no<g ref="char:EOLhyphen"/>thing in Nature more productive of friendſhip, then ſome reſemblance in manners: But the narrowneſſe of his For<g ref="char:EOLhyphen"/>tune not ſuffering him to ſupply ſome empty men, as pro<g ref="char:EOLhyphen"/>fuſely, as they had promis'd themſelves; they have branded his <hi>Majeſty</hi> with Ingratitude, and Unfaithfulneſſe, Sins which he abhors both from his Nature and Judgement.</p>
+            <p>A man that is only <hi>Innocent,</hi> and not actively <hi>Vertuous,</hi> is ſo near to imperfection and weakneſſe, that it is heard to diſtinguiſh their confines; and if it be granted that his <hi>Ma<g ref="char:EOLhyphen"/>jeſty</hi> does poſſeſſe theſe Illuſtrious Qualities, yet if he wants the Nature to produce them by practice, they may ſerve his Flatterers for <hi>Panegyricks,</hi> but they will be of little benefit to his People; therefore it is neceſſary to evince his <hi>Induſtry,</hi> to confirm the Charracter of an accom<g ref="char:EOLhyphen"/>pliſh'd Prince.</p>
+            <p>There was for a long time ſo dead a Calm in his buſineſſe, his Enemies being ſo ſtrong at home, and his Friends ſo engaged abroad, that he could not make one notorious pru<g ref="char:EOLhyphen"/>dent ſtep towards his recovery, which his cautelous Ene<g ref="char:EOLhyphen"/>mies have repreſented to the undiſcerning People under the reproach of <hi>Lazineſſe.</hi> But the beſt of it is, he hath had an Army of his own <hi>Subjects</hi> for the Witneſſes as well of
+<pb n="12" facs="tcp:179168:7"/>
+his <hi>Induſtry</hi> as <hi>Courage:</hi> And if theſe uningenuous cen<g ref="char:EOLhyphen"/>ſurers had been of his Train the laſt Year, when his <hi>Majeſty</hi> rid Poſt above two hundred Leagues through <hi>France</hi> and part of <hi>Spain,</hi> in the heat of Summer, I perſwade my ſelf they would have confeſſed their own wearineſſe, though poſſibly they had denied his Diligence: And he ſpares his <hi>Mind</hi> as ltitle as his <hi>Body,</hi> for beſides his converſation with Books, he conſults and inſtructs all men that addreſſe to him in his buſineſſe and amongſt his <hi>Correſpondents</hi> (which are not few) it may be there will ſcare be found <hi>One</hi> to whom he owes a <hi>Letter.</hi>
+            </p>
+            <p>Amongſt the <hi>Moral Vertues</hi> there are ſome which have not ſuch glorious Names as theſe which I have already men<g ref="char:EOLhyphen"/>tioned; but I think they are very conſiderable, becauſe they are more diffus'd into the ordinary Actions of our lives. In this number I reckon <hi>Temperance in Speech,</hi> wherein his <hi>Majeſty</hi> ſo excels, that I have often thought of it with ad<g ref="char:EOLhyphen"/>miration; for though I have ſometimes ſeen him very juſt<g ref="char:EOLhyphen"/>ly angry, yet the hardeſt expreſſion that I have ever heard him uſe to a <hi>Gentleman,</hi> was once, and but once, when he told one of his domeſticks, That he was an Inſolent fellow: And though the Author of <hi>A late Letter from a near At<g ref="char:EOLhyphen"/>tendant on his Majeſty, dated from</hi> Bruſſels, and written at <hi>London,</hi> may poſſibly be diſpleaſed with this contradiction, yet out of my reſpect to <hi>Truth,</hi> I am bold to affirm, That to the beſt of my remembrance, I never heard his <hi>Majeſty</hi> ſwear an Oath in my life: But it is well known out of what Quiver theſe poyſoned Arrows come, which being ſhot againſt the impenetrable Buckler of his Innocency, will re<g ref="char:EOLhyphen"/>bound upon the faces of thoſe wicked men that did firſt le<g ref="char:EOLhyphen"/>vel them.</p>
+            <p>To this may be joyn'd his <hi>Sobriety</hi> in <hi>Diet,</hi> in which he ſeldome makes the leaſt exceſſe, though he ſtands not in awe of his <hi>Conſtitution;</hi> for he is of ſo healthful a <hi>Tempera<g ref="char:EOLhyphen"/>ment,</hi> that I have not known him above thrice ſick theſe
+<pb n="13" facs="tcp:179168:7"/>
+eighteen Years: But he ſo Naturally hates <hi>Debauchery,</hi> that his ſeverity to this vice hath cured ſome habitual drun<g ref="char:EOLhyphen"/>kards, who have choſen rather to part with their beloved ſins, then with <hi>his Majeſties</hi> Favour.</p>
+            <p>Though I can neither impugne nor defend the conſtant auſterity of his <hi>Majeſties</hi> life, ſince it is poſſible that in the heats of his Youth he may have rendred to the powerful charms of Beauty; yet I am certain that for many years he hath been ſo Chaſt and Cautious, that I have not heard the leaſt whiſper of any indecent <hi>Gallantry:</hi> And yet his impu<g ref="char:EOLhyphen"/>dent Enemies have not only reproached him with habitual <hi>Incontinence,</hi> and farc'd their ſlanders with falſe and frivolous tales, knowing that Fame, like water, bears up light things and ſwallows the heavy; but they have ſuborned their Mercenary <hi>Prophets</hi> to denounce <hi>Gods</hi> Judgements againſt him, for theſe ſuppoſed Frailties, and to infer with as ill <hi>Morality</hi> as <hi>Logick,</hi> That his Majeſty is unfit for Govern<g ref="char:EOLhyphen"/>ment, becauſe that in his Youth he may not have been ſtronger then <hi>Samſon,</hi> wiſer then <hi>Solomon,</hi> or more holy then <hi>David.</hi> But whoſoever will impartially conſider his juſt Character, and compare him either with the Ancient and modern Princes of the World: will hardly find a prece<g ref="char:EOLhyphen"/>dent where ſo many ſhining qualities are aſſembled, or ſo little ſhadowed with any inclinations to vice: and if ſolid <hi>Vertue</hi> and <hi>Abilities</hi> for Government were a juſt title to Dominion, the <hi>Brutiſh</hi> Ocean would not be the confines of his Empire.</p>
+            <p>Theſe <hi>Excellent Qualities</hi> are the products of a happy <hi>Nature,</hi> or a generous <hi>Education,</hi> but as the ſoul informs the body, ſo it is <hi>Religion</hi> which animates the Character of Chriſtian Princes, and crowns their moral perfections, and therefore as the moſt eminent, I have reſerv'd that to finiſh this Piece.</p>
+            <p>For his interiour <hi>Piety,</hi> I leave it to the <hi>Searcher</hi> of thoughts, in whoſe hands are the hearts of <hi>Kings;</hi> for to
+<pb n="14" facs="tcp:179168:8"/>
+us, the Tree is only known by the fruits; neither will I ex<g ref="char:EOLhyphen"/>tend my ſelf upon the diſcourſe of his <hi>Humility, Meekneſſe, Charity,</hi> and other divine Graces, ſince theſe produce the ſame effects (though more rais'd, becauſe they are deriv'd from a higher Cauſe, for <hi>Chriſtian Religion is only reaſon ſub<g ref="char:EOLhyphen"/>lim'd)</hi> which I have already treated under other names; and they are fitter for the Pens of thoſe who have entrance into the <hi>Sanctuary,</hi> then for a ſecular Perſon; therefore I ſhall only inſiſt upon his <hi>Majeſties firmneſſe to his Religion,</hi> as the moſt conducing to our purpoſe.</p>
+            <p>And in this particular, he hath given ſuch ſignal teſtimo<g ref="char:EOLhyphen"/>nies to the world, that I wonder at the folly, as well as the malice of his Enemies, that have planted their Batteries againſt this point; but it is a <hi>Maxime</hi> deriv'd from the Fa<g ref="char:EOLhyphen"/>ther of <hi>Lyes, To calumniate boldly, that ſomething may re<g ref="char:EOLhyphen"/>main,</hi> and the people are ſo ſuſceptible of tales, that it is hard to invent a <hi>Fable</hi> which is above their Faith.</p>
+            <p>His <hi>Majeſty</hi> having paſſed ten years of his exile in the ter<g ref="char:EOLhyphen"/>ritories of <hi>Catholick</hi> Princes, in <hi>France, Germany</hi> and <hi>Flan<g ref="char:EOLhyphen"/>ders,</hi> it cannot be doubted that he hath been frequently importuned to change his <hi>Religion,</hi> either by thoſe, who out of a firm perſwaſion of the verity of their own belief, have thought it a charity to make him a <hi>Convert;</hi> or thoſe who from the preſumption of their great abilities in <hi>Con<g ref="char:EOLhyphen"/>troverſie,</hi> have had the ambition to adde ſo illuſtrious a perſon to the number of their <hi>Proſelytes,</hi> or thoſe <hi>Politici<g ref="char:EOLhyphen"/>ans,</hi> who (deſpairing of his re-eſtabliſhment, unleſſe by the aſſiſtance of <hi>Catholick Princes)</hi> have urged his converſion to the <hi>Roman Faith,</hi> as the beſt means to take the benevo<g ref="char:EOLhyphen"/>lence of his <hi>Alleys:</hi> but they have all encountred ſuch an immovable firmneſſe in his <hi>Majeſty</hi> to the <hi>Principles</hi> of his <hi>Religion,</hi> that they have retir'd from the aſſault with no other effects, then the ſatisfaction of having diſcharged their <hi>Conſciences,</hi> by their officious Counſels.</p>
+            <p>Amongſt many other <hi>Champions</hi> of the <hi>Roman Church;</hi>
+               <pb n="15" facs="tcp:179168:8"/>
+His <hi>Majeſty</hi> was frequently attacqued (whilſt he remained in <hi>France)</hi> by <hi>Monſieur de la Melitiere,</hi> a man of an excel<g ref="char:EOLhyphen"/>lent ſpirit, who had been formerly a <hi>Calviniſt,</hi> and by <hi>Mon<g ref="char:EOLhyphen"/>ſieur Salmonet</hi> originally a <hi>Scots-man,</hi> and favourite to the <hi>Cardinal de Retz,</hi> who have ſince printed and publiſhed the Arguments of their conference; and there is hardly any <hi>Roman Catholick</hi> of note for piety or Learning in any part of the World, where his <hi>Majeſty</hi> hath been, that hath not joyned his Forces to combate him for his <hi>Religion.</hi>
+            </p>
+            <p>And ſhall he that hath paſſed ſo ſucceſſefully through a ten years War in the defence of his <hi>Faith,</hi> be rob'd of his <hi>Triumph,</hi> and of his <hi>Higheſt Title,</hi> by the tongue or pen of a perjur'd Villain? We muſt then conclude, that <hi>Juſtice is fled to Heaven,</hi> and hath left us nothing here but her <hi>Bal<g ref="char:EOLhyphen"/>lance,</hi> in which theſe wretched men do weigh their worldly Intereſts, againſt all the moral and divine Vertues; but <hi>Truth will be juſtified of her Children,</hi> and his <hi>Majeſties</hi> perſe<g ref="char:EOLhyphen"/>verance in his <hi>Religion</hi> will be dear to the truely pious <hi>People</hi> of this <hi>Nation,</hi> when the faces of theſe ſlanders ſhall grow black with confuſion.</p>
+            <p>But his <hi>Majeſties</hi> Fervour for his own way of <hi>Worſhip</hi> does not invade his Charity, to <hi>diſſenting Chriſtians:</hi> He is convinced by his <hi>Experience,</hi> as well as by his <hi>Reaſon,</hi> That <hi>Conſciences are not to be forc'd,</hi> and that men may reaſo<g ref="char:EOLhyphen"/>nably ſuſpect the truth of that <hi>Religion,</hi> which uſeth the <hi>Sword</hi> for her <hi>Argument;</hi> ſince it is as much againſt <hi>Reaſon</hi> as <hi>Charity,</hi> to perſecute thoſe who may be in the <hi>right,</hi> or if not, ſhall by this means be kept longer in the <hi>wrong;</hi> And therefore thoſe <hi>tender Conſciences,</hi> who worſhip God in the ſincerity of their ſpirits, and do not diſſent from their Brethren, to advance their humrne Intereſts, ought to joyn in their prayers to <hi>Almighty God,</hi> with the reſt of the people; to place this <hi>Religious, Virtuous King</hi> in peace, upon the Throne of his <hi>Anceſtors.</hi>
+            </p>
+            <pb n="16" facs="tcp:179168:9"/>
+            <p>And if the Illuſtrious Birth of his <hi>Sacred MAJESTY,</hi> His <hi>Juſt Tittle</hi> to <hi>Dominion</hi> over us; warranted by the <hi>Laws</hi> of theſe Kingdoms, and marvelouſly aſſerted by the <hi>Providence</hi> of <hi>God;</hi> and who (beſides his <hi>Acquir'd Per<g ref="char:EOLhyphen"/>fections)</hi> is poſſeſt of <hi>Wiſdom, Juſtice, Fortitude, Cou<g ref="char:EOLhyphen"/>rage, Clemency, Faithfulneſſe, Induſtry, Temperance,</hi> and <hi>Steddineſſe</hi> in his <hi>Religion;</hi> If theſe <hi>Eminent Qualities</hi> may derive happineſſe to his People, Then it is in our power to be happy, and He is bold to pronounce this to his <hi>Fellow-Subjects; Who is ſo far from betraying his Coun<g ref="char:EOLhyphen"/>trey for his Prince, that he would not betray a private perſon, either for his Prince or Countrey.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:179168:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
